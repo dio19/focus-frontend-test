@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/dio19.github.io/focus-frontend-test/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/dio19.github.io/focus-frontend-test/static/js/main.5bd7ab28.chunk.js",
-    "main.js.map": "/dio19.github.io/focus-frontend-test/static/js/main.5bd7ab28.chunk.js.map",
-    "runtime-main.js": "/dio19.github.io/focus-frontend-test/static/js/runtime-main.136d92bd.js",
-    "runtime-main.js.map": "/dio19.github.io/focus-frontend-test/static/js/runtime-main.136d92bd.js.map",
-    "static/js/2.a4f51595.chunk.js": "/dio19.github.io/focus-frontend-test/static/js/2.a4f51595.chunk.js",
-    "static/js/2.a4f51595.chunk.js.map": "/dio19.github.io/focus-frontend-test/static/js/2.a4f51595.chunk.js.map",
-    "static/js/3.58a56ec2.chunk.js": "/dio19.github.io/focus-frontend-test/static/js/3.58a56ec2.chunk.js",
-    "static/js/3.58a56ec2.chunk.js.map": "/dio19.github.io/focus-frontend-test/static/js/3.58a56ec2.chunk.js.map",
+    "main.css": "/dio19.github.io/focus-frontend-test/static/css/main.8712a04b.chunk.css",
+    "main.js": "/dio19.github.io/focus-frontend-test/static/js/main.6d23354f.chunk.js",
+    "main.js.map": "/dio19.github.io/focus-frontend-test/static/js/main.6d23354f.chunk.js.map",
+    "runtime-main.js": "/dio19.github.io/focus-frontend-test/static/js/runtime-main.cb22c4f7.js",
+    "runtime-main.js.map": "/dio19.github.io/focus-frontend-test/static/js/runtime-main.cb22c4f7.js.map",
+    "static/js/2.bac06f8c.chunk.js": "/dio19.github.io/focus-frontend-test/static/js/2.bac06f8c.chunk.js",
+    "static/js/2.bac06f8c.chunk.js.map": "/dio19.github.io/focus-frontend-test/static/js/2.bac06f8c.chunk.js.map",
     "index.html": "/dio19.github.io/focus-frontend-test/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/dio19.github.io/focus-frontend-test/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.a4f51595.chunk.js.LICENSE.txt": "/dio19.github.io/focus-frontend-test/static/js/2.a4f51595.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/dio19.github.io/focus-frontend-test/static/media/logo.6ce24c58.svg"
+    "precache-manifest.d31d9b8dd79d1860443e2c461c29bd5f.js": "/dio19.github.io/focus-frontend-test/precache-manifest.d31d9b8dd79d1860443e2c461c29bd5f.js",
+    "service-worker.js": "/dio19.github.io/focus-frontend-test/service-worker.js",
+    "static/css/main.8712a04b.chunk.css.map": "/dio19.github.io/focus-frontend-test/static/css/main.8712a04b.chunk.css.map",
+    "static/js/2.bac06f8c.chunk.js.LICENSE.txt": "/dio19.github.io/focus-frontend-test/static/js/2.bac06f8c.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/dio19.github.io/focus-frontend-test/static/media/Mont-SemiBold.5cf16df9.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.136d92bd.js",
-    "static/js/2.a4f51595.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.5bd7ab28.chunk.js"
+    "static/js/runtime-main.cb22c4f7.js",
+    "static/js/2.bac06f8c.chunk.js",
+    "static/css/main.8712a04b.chunk.css",
+    "static/js/main.6d23354f.chunk.js"
   ]
 }
